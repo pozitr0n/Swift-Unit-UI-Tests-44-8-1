@@ -1,5 +1,6 @@
 # Swift Unit/UI Tests 44-8-1
 ## A test application for which Unit tests and UI tests are written.
+### This is the light presentation of the tests in Swift.
 
 ### Unit tests and UI tests were written for this application. We also tested the functionality of generating a UI test code by recording click events from the simulator screen.
 
